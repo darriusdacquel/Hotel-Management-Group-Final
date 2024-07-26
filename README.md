@@ -48,7 +48,7 @@ The `HotelManagement` class handles the overall management of the hotel includin
 2. **Compile the Code**
    Open a terminal or command prompt in the project directory and compile the code using the following command:
    ```sh
-   g++ -o hotel_management Hotel.cpp
+   g++ -o hotel_management hotel.cpp
 
 3. **Run the Program**
    After compiling, run the program with the following command:
